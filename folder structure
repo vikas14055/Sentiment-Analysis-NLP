@@ -1,0 +1,16 @@
+Sentiment-Analysis-NLP/
+│
+├── books_dataset.csv
+├── sentiment_analys.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+│
+├── charts/
+│   ├── sentiment.png
+│   ├── sentiment_pie.png
+│   ├── emotion.png
+│   ├── price_sentiment.png
+│
+└── output/
+    └── final_nlp_output.csv
